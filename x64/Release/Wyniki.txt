@@ -1,0 +1,14 @@
+Wyniki plecak
+
+plecak1: waga 96, wartosc 166
+plecak2: waga 119, wartosc 303
+plecak3: waga 150, wartosc 262
+
+Wyniki TSP:
+
+TSP4: 200
+TSP6_1: 132
+TSP6_2: 80
+TSP10: 212
+TSP12: 264
+TSP13: 269
